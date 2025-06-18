@@ -1,0 +1,9 @@
+# ninja log v6
+5	685	7690090616008706	Currency_Converter_autogen/timestamp	6b25336fc9791d3c
+5	685	7690090616008706	Currency_Converter_autogen/mocs_compilation.cpp	6b25336fc9791d3c
+5	685	7690090616008706	D:/Personal/Coding/1_WorkSpace/2_C++/2_Projects/2_GUI/2_Currency_Converter/Currency_Converter/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Currency_Converter_autogen/timestamp	6b25336fc9791d3c
+5	685	7690090616008706	D:/Personal/Coding/1_WorkSpace/2_C++/2_Projects/2_GUI/2_Currency_Converter/Currency_Converter/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Currency_Converter_autogen/mocs_compilation.cpp	6b25336fc9791d3c
+723	2385	7690090617171996	CMakeFiles/Currency_Converter.dir/Currency_Converter_autogen/mocs_compilation.cpp.obj	d7881ba0cd4e649b
+728	2458	7690090617243368	CMakeFiles/Currency_Converter.dir/main.cpp.obj	2adceffd2298e6b0
+734	3448	7690090617289522	CMakeFiles/Currency_Converter.dir/mainwindow.cpp.obj	4bbe99f1cf546439
+3448	3858	7690090644438013	Currency_Converter.exe	512b10e85463ca29
