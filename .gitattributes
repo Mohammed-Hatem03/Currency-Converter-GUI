@@ -1,0 +1,4 @@
+*.cpp linguist-detectable
+*.h linguist-detectable
+CMakeLists.txt linguist-language=ignore
+*.cmake linguist-language=ignore
